@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 381dfe47c1eda67408f502d39f4e1beb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: se-ed-ML-Uerng-RJ
+  fontNames:
+  - se-ed-ML-Uerng-RJ
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 26c4e2482007db5408908677f65345d3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
